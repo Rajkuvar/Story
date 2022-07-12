@@ -1,1 +1,1 @@
-So, I started to learn coding with all my heart just two months before the placement session had to officially begin.
+So, I started to learn coding with all my heart just two months before the placement session had to officially begin.But I already knew C++ very well and had to work on data structures and algorithms. By God's grace, I also had an experience in Web Development and had already done HTML, CSS(bootstrap), Java Script, Node JS, Experess JS, UNIX Command Line, Postman, Mailchimp.
